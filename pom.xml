@@ -6,8 +6,7 @@
 
     <groupId>com.github.BinBin2905</groupId>
     <artifactId>remote_intern_task1</artifactId>
-    <version>0.0.3</version>
-    <name>Add 2 Num</name>
+    <version>0.0.4</version>
+    <name>Add2Num</name>
 
 </project>
-
