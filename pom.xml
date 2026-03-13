@@ -4,9 +4,9 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example</groupId>
-    <artifactId>add-2-num</artifactId>
-    <version>0.0.1</version>
+    <groupId>com.github.BinBin2905</groupId>
+    <artifactId>remote_intern_task1</artifactId>
+    <version>0.0.3</version>
     <name>Add 2 Num</name>
 
 </project>
